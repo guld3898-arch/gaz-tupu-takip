@@ -11,7 +11,7 @@ veritabanıdır (Veri dönemi 18.10.2023 – 17.10.2026; müşteri, sipariş ve 
 
 ## İş takip panosu
 
-**Pano:** <PANO_BAĞLANTISI_BURAYA>  
+**Pano:** https://github.com/users/guld3898-arch/projects/2  
 Sütunlar: Yapılacak · Devam Ediyor · Tamamlandı. Her kartta açıklama ve kabul kriterleri yazılıdır.
 
 ## Projeyi çalıştırma
@@ -19,8 +19,8 @@ Sütunlar: Yapılacak · Devam Ediyor · Tamamlandı. Her kartta açıklama ve k
 Gereken: Python 3.10 veya üstü.
 
 ```bash
-git clone <DEPO_BAĞLANTISI>
-cd gaz-tup-takip
+git clone https://github.com/guld3898-arch/gaz-tupu-takip
+cd gaz-tupu-takip
 
 python -m venv .venv
 # Windows:      .venv\Scripts\activate
